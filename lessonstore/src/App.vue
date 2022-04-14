@@ -24,8 +24,8 @@
 
 
 <script>
-import product from "./components/Lessons.vue";
-import checkout from "./components/checkoutForm.vue";
+import product from "./components/lessons.vue";
+import checkout from "./components/checkout.vue";
 
 export default {
   name: "App",
